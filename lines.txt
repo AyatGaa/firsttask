@@ -18,12 +18,17 @@ changes and commit them, and you can discard any commits you make in this
 state without impacting any branches by switching back to a branch.
 "
 11- git branch ==> show current branch 
+<<<<<<< HEAD
 12- git checkout master==>  go back to branch master==> هرجع لاخر وضع عادي
 13- git checkout branchname ==>  go to this branch
 14- git branch branchneam ==> create branch
 15- 
 NOTE: when doing change in branch 'ayatt' it doesnt affect on master branch UNTIL
 i merge it by my self
+=======
+12- git checkout master ==>  go back to branch master==> هرجع لاخر وضع عادي
+
+>>>>>>> ayatt
 
 -------------------The Process-----------
 "1- do your work on file
