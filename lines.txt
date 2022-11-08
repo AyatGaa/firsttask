@@ -1,0 +1,33 @@
+--------------The commands------
+1- git init "folder-name" ==> to make new folder "project"
+2- ls ==> listing files in this directory
+3- cd folder name==> go into this folder
+4- ls -a ==> listing hidden file
+5- git status ==> show any commits happen
+6- touch filename.type ==> to create file
+7- git add filename.type ==> to track file " bring it to stage!"
+NOTE==> commits Green > On Stage // Commits Red > Back the Stage
+8- git commit -m "meassge to show when ask for log " ==> put message to guide u
+9- git log ==>show your activity on project
+
+10- git checkout hashlog ==> to switch to specific log "branch"تراجع يعني هيهي
+"$ git checkout e550cc57205654ab9db4c20f5768493e9bf9bbdb
+Note: switching to 'e550cc57205654ab9db4c20f5768493e9bf9bbdb'.
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+"
+11- git branch ==> show current branch 
+12- git checkout master ==>  go back to branch master==> هرجع لاخر وضع عادي
+
+
+-------------------The Process-----------
+"1- do your work on file
+   2- git status to see file status "green or red"
+  3- git add file.type to bring it to stage GREen
+  4- git status to sure that it is green
+  5- git commit -m "message" to guide yourself 
+   6-  git status to see their is no file on stage!
+   7- git log to see all activity"
+
+NOTE==> branch master 
