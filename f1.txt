@@ -1,0 +1,11 @@
+1- git init "folder-name" ==> to make new folder "project"
+2- ls ==> listing files in this directory
+3- cd folder name==> go into this folder
+4- ls -a ==> listing hidden file
+5- git status ==> show any commits happen
+6- touch filename.type ==> to create file
+7- git add filename.type ==> to track file " bring it to stage!"
+NOTE==> commits Green > On Stage // Commits Red > Back the Stage
+8- git commit -m "meassge to show when ask for log " ==> put message to guide u
+9- git log ==>show your activity on project
+10- 
